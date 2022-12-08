@@ -1,0 +1,83 @@
+.tab-1.tab-1-th.tab-1-td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    
+
+}
+.tab-1-th.tab-1-td{
+    width: 16vw;
+
+}
+
+.tab-1{
+    margin: 10px;
+    width: 16vw;
+    height: 26vh;
+}
+
+.tab-1-th {
+    background-color: darkgrey;
+    height:5vh;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+/* tab-2 styling */
+
+.tab-2.tab-2-th.tab-2-td
+{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    justify-content: space-between;
+
+}
+.tab-2-th.tab-2-td{
+    width: 16vw;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.tab-2{
+    margin: 10px;
+    width: 51vw;
+    height: 12vh;
+}
+
+.tab-2-th{
+    background-color: darkgrey;
+    height:5vh;
+}
+.tab-2-td{
+    
+    height: 41px;
+    display: flex;
+    justify-content: space-between;
+}
+/* table-3 */
+.tab-3.tab-3-th.tab-3-td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    
+
+}
+.tab-3-th.tab-3-td{
+    width: 16vw;
+
+}
+
+.tab-3 {
+    margin: 10px;
+    width: 33vw;
+    height: 11vh;
+}
+
+.tab-3-th {
+    background-color: darkgrey;
+    height:5vh;
+}
+

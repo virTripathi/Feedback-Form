@@ -1,0 +1,86 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container-pro{
+    display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+
+.container-1 {
+    text-align: center;
+}
+
+.three-container {
+    display: flex;
+    margin: 10px;
+}
+
+.submajor-1 {
+    display: block;
+}
+
+.submajor-2-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.submajor-2-flex>*{
+    flex: 1;
+}
+
+.submajor-3-flex {
+    display: flex;
+}
+
+.submajor-3-flex>* {
+    flex: 1;
+}
+
+.containers {
+    flex: 0.4;
+    display: block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.circular-button {
+    border-radius: 15px;
+}
+
+.major-1 {
+    display: flex;
+}
+
+.major-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+   background-color: gainsboro;
+    border-radius: 12px;
+}
+.active{
+    background-color: black;
+    border-radius: 12px;
+}
+.submit{
+    background-color: orange;
+    border-radius: 12px;
+}
+
+.empty-box {
+    height: 23px;
+    width: 21px;
+    border: 1px solid;
+    color: black;
+    margin: 0px 0px 3px;
+}
+
+.major-1.major-2 {
+    display: block;
+}
